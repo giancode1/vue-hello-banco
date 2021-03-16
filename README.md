@@ -18,6 +18,16 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+### Visualizar proyecto en Netlify:
+[vue-hello-banco](https://banco-vue-pruebagc.netlify.app/)
+
+### Visualizar proyecto en Host compartido:
+[vue-hello-banco](https://vue1.giancode.com/)
+
+Proximamente se estara actualizando este proyecto con mas contenido de vue
+
+Si deseas subir este proyecto en algun servidor:
+
 ## Proyecto Vue js en servidor NGINX, ubuntu server
 skills: HTML--JAVASCRIPT--VUE JS--GIT/GITHUB--NGINX--NODE JS
 
